@@ -1,0 +1,29 @@
+{
+  "ApiPage": {
+    "btn200Ok": {
+      "description": "Button200OK",
+      "type": "xpath",
+      "value": "//button[contains(., '200 OK')]"
+    },
+    "btn204NC": {
+      "description": "Button204NoContent",
+      "type": "xpath",
+      "value": "//button[contains(., '204 No Content')]"
+    },
+    "btn400BR": {
+      "description": "Button400BadRequest",
+      "type": "xpath",
+      "value": "//button[contains(., '400 Bad Request')]"
+    },
+    "btn500SE": {
+      "description": "Button500ServerError",
+      "type": "xpath",
+      "value": "//button[contains(., '500 Internal Server Error')]"
+    },
+    "txtRespTable": {
+      "description": "TextResponseTable",
+      "type": "xpath",
+      "value": "//div[@class='response-area visible']/pre"
+    }
+  }
+}

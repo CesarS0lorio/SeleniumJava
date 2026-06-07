@@ -1,0 +1,154 @@
+{
+  "ElementsPage": {
+    "btnDClick": {
+      "description": "DoubleClickButton",
+      "type": "id",
+      "value": "doubleClickBtn"
+    },
+    "btnRClick": {
+      "description": "RightClickButton",
+      "type": "id",
+      "value": "rightClickBtn"
+    },
+    "btnSClick": {
+      "description": "SingleClickButton",
+      "type": "id",
+      "value": "clickBtn"
+    },
+    "btnDisabled": {
+      "description": "DisabledButton",
+      "type": "id",
+      "value": "disabledBtn"
+    },
+    "btnClear": {
+      "description": "ClearButton",
+      "type": "id",
+      "value": "clearBtn"
+    },
+    "txtDClick": {
+      "description": "DoubleClickText",
+      "type": "id",
+      "value": "doubleClickMsg"
+    },
+    "txtRClick": {
+      "description": "RightClickText",
+      "type": "id",
+      "value": "rightClickMsg"
+    },
+    "txtSClick": {
+      "description": "SingleClickText",
+      "type": "id",
+      "value": "dynamicClickMsg"
+    },
+    "txtDisabled": {
+      "description": "DisabledText",
+      "type": "id",
+      "value": "disabledMsg"
+    },
+    "inpNinja": {
+      "description": "InputNinja",
+      "type": "id",
+      "value": "ninjaCheck"
+    },
+    "inpAuto": {
+      "description": "InputAutomation",
+      "type": "id",
+      "value": "automationCheck"
+    },
+    "inpPerf": {
+      "description": "InputPerformance",
+      "type": "id",
+      "value": "performanceCheck"
+    },
+    "inpFunc": {
+      "description": "InputFunctional",
+      "type": "id",
+      "value": "functionalCheck"
+    },
+    "txtNinja": {
+      "description": "SummaryNinja",
+      "type": "id",
+      "value": "ninjaSummary"
+    },
+    "txtAuto": {
+      "description": "SummaryAutomation",
+      "type": "id",
+      "value": "automationSummary"
+    },
+    "txtPerf": {
+      "description": "SummaryPerformance",
+      "type": "id",
+      "value": "performanceSummary"
+    },
+    "txtFunc": {
+      "description": "SummaryFunctional",
+      "type": "id",
+      "value": "functionalSummary"
+    },
+    "inpName": {
+      "description": "InputName",
+      "type": "id",
+      "value": "petNameInput"
+    },
+    "inpOptions": {
+      "description": "InputOptionsList",
+      "type": "xpath",
+      "value": "//input[@type='radio']"
+    },
+    "txtDescription": {
+      "description": "TextDescription",
+      "type": "xpath",
+      "value": "//div[@class='form-group']/p"
+    },
+    "btnView": {
+      "description": "ButtonView",
+      "type": "id",
+      "value": "viewBtn"
+    },
+    "txtOutMessage": {
+      "description": "TextOutMessage",
+      "type": "id",
+      "value": "petInfoOutput"
+    },
+    "txtInpOptions": {
+      "description": "TextInputOptions",
+      "type": "xpath",
+      "value": "//td/label/p"
+    },
+    "txtNameError": {
+      "description": "TestNameError",
+      "type": "id",
+      "value": "name-error"
+    },
+    "txtEmailError": {
+      "description": "TextEmailError",
+      "type": "id",
+      "value": "email-error"
+    },
+    "txtDescriptionError": {
+      "description": "TextDescriptionError",
+      "type": "id",
+      "value": "description-error"
+    },
+    "inpCompleteName": {
+      "description": "InputName",
+      "type": "id",
+      "value": "name"
+    },
+    "inpEmail": {
+      "description": "InputEmail",
+      "type": "id",
+      "value": "email"
+    },
+    "inpDescription": {
+      "description": "InputDescription",
+      "type": "id",
+      "value": "description"
+    },
+    "txtOutView": {
+      "description": "TextViewOutput",
+      "type": "id",
+      "value": "output-data"
+    }
+  }
+}

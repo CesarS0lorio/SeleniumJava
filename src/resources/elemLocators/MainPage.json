@@ -1,0 +1,39 @@
+{
+  "MainPage": {
+    "txtHeader": {
+      "description": "PageHeader",
+      "type": "xpath",
+      "value": "//table[@class='title-section']"
+    },
+    "txtMenu": {
+      "description": "MenuTitle",
+      "type": "xpath",
+      "value": "//div/aside[@class='sidebar-section']"
+    },
+    "txtMenuOpts": {
+      "description": "MenuOptions",
+      "type": "xpath",
+      "value": "//div/aside[@class='sidebar-section']/ul/li/span"
+    },
+    "txtMenuSubs": {
+      "description": "MenuSubOptions",
+      "type": "xpath",
+      "value": "//li/a"
+    },
+    "txtMenuSubsHeaders": {
+      "description": "MenuSubOptionsHeaders",
+      "type": "xpath",
+      "value": "//div/aside[@class='sidebar-section']/ul/li"
+    },
+    "txtFooter": {
+      "description": "FooterDescription",
+      "type": "xpath",
+      "value": "//div[@class='footer-content']"
+    },
+    "txtMainContent": {
+      "description": "TextMainPageContent",
+      "type": "xpath",
+      "value": "//main[@class='content-section']/p"
+    }
+  }
+}

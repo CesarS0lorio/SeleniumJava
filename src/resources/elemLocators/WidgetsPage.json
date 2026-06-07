@@ -1,0 +1,46 @@
+{
+  "WidgetsPage": {
+        "optTabAccordion": {
+        "description": "AccordionTabsOptions",
+        "type": "css",
+        "value": "div.accordion div.accordion-item"        
+        },
+    "txtTabAccordion": {
+        "description": "AccordionTabsOptions",
+        "type": "css",
+        "value": "div.accordion div[style*='padding-top'] h3"
+        },
+    "txtContAccordion": {
+        "description": "AccordionContentOptions",
+        "type": "css",
+        "value": "div.accordion div[style*='padding-top'] p"
+        },
+    "btnViewDate": {
+        "description": "ViewButtonDatePicker",
+        "type": "css",
+        "value": "button.dp-view-btn"
+        },
+    "txtContentDate": {
+        "description": "DatePickerTextResult",
+        "type": "css",
+        "value": "div.container:nth-of-type(2) div"
+        },
+    "inpDateOpt": {
+        "description": "DateOption",
+        "type": "css",
+        "value": "input#date-input-dp"
+        },
+    "btnDaysOpt": {
+        "description": "DaysOptionsCalendar",
+        "type": "css",
+        "value": "div.dp-day-cell"
+        },
+    "btnTodayOpt": {
+        "description": "TodayOptionCalendar",
+        "type": "css",
+        "value": "today-button-dp"
+        }        
+    }
+}
+
+
