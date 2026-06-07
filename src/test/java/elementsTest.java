@@ -14,25 +14,25 @@ public class elementsTest extends TestNG {
     public static final String f007 = suite + "_TextBoxOptions";
 
 
-    @Test(testName = f003)
+    @Test(testName = f003,  groups = {"Regression", "Full"})
     public void buttonsOptions() {
         new ElementsSteps(driver);
         ElementsSteps.validateButtonsOptions();
     }
 
-    @Test(testName = f004)
+    @Test(testName = f004,  groups = {"Full"})
     public void checkBoxOptions() {
         new ElementsSteps(driver);
         ElementsSteps.validateCheckBoxOptions();
     }
 
-    @Test(testName = f005)
+    @Test(testName = f005,  groups = {"Full"})
     public void radioButtonsOptions() {
         new ElementsSteps(driver);
         ElementsSteps.validateRadioOptions("Ares", 3);
     }
 
-    @Test(testName = f007)
+    @Test(testName = f007,  groups = {"Full"})
     public void textBoxOptions() {
         new ElementsSteps(driver);
         ElementsSteps.validateTextBoxOptions();

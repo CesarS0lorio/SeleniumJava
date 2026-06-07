@@ -13,13 +13,13 @@ public class widgetsTest extends TestNG{
     public static final String f015 = suite + "_Menu";
     public static final String f016 = suite + "_Tabs";
     
-    @Test(testName = f012)
+    @Test(testName = f012,  groups = {"Regression", "Full"})
     public void validateAccordions(){
         new WidgetsSteps(driver);
         WidgetsSteps.validateAccordion();
     }
 
-    @Test(testName = f013)
+    @Test(testName = f013,  groups = {"Full"})
     public void validateDatePicker(){
         new WidgetsSteps(driver);
         WidgetsSteps.validateDatePicker();

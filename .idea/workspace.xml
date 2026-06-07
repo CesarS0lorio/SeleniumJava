@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07995eb4-be6a-4746-8305-49937b90e934" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/1338-09-07-2025/FinalReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/1352-09-07-2025/FinalReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/1354-09-07-2025/FinalReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver__.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Resources/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Resources/Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_principalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_principalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/elementsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/elementsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interactionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/interactionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/widgetsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/widgetsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3EmsS8j1tr6TBVjf0KCZ3GyEI60" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Maven.JavaFrame [clean,test,-Dgroups=Full].executor": "Run",
+    "Maven.JavaFrame [clean,test...].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "CesarSolorio",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Cesar/OneDrive/Escritorio/Cesar/SeleniumJavaProject/SeleniumJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test -Dgroups=Regression" />
+      <command value="mvn clean test -Dgroups=Full" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.54" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28539.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07995eb4-be6a-4746-8305-49937b90e934" name="Changes" comment="" />
+      <created>1780795077616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780795077616</updated>
+      <workItem from="1780795078828" duration="1770000" />
+      <workItem from="1780797025622" duration="2280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

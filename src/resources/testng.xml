@@ -4,7 +4,7 @@
     
     <parameter name="environment" value="prod"/>     
     <parameter name="browserType" value="chrome"/>
-    <parameter name="headless" value="true"/> 
+    <parameter name="headless" value="false"/>
 
 
     <test name="QA Automation Principal">
